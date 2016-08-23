@@ -1,4 +1,4 @@
-from django.conf.urls import patterns,include,url
+from django.conf.urls import include,url
 from appsgr.views import *
 from django.contrib.auth.views import login,logout
 
